@@ -33,7 +33,7 @@
   "GENDER": "MALE",
   "nickNameBot": "Rinz auto bot",
   "FACEBOOK": "https://www.facebook.com/profile.php?id=61550955013646",
-  "prefix": "✓",
+  "prefix": "#",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
